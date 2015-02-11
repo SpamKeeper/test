@@ -1,4 +1,8 @@
 <?php
+
 echo 'admin';
-echo 'Spam Spam';
+
+
+echo 'Hello, Admin';
+
 ?>

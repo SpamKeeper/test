@@ -1,4 +1,4 @@
-<?
-echo 'admin';
+<?php
+echo 'admin<br/>';
 echo 'Hello, Admin';
 ?>
